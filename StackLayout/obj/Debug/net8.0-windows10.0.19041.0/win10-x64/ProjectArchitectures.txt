@@ -1,0 +1,1 @@
+C:\Users\Gabriel\C#\Maui\VerticalStackLayout\StackLayout\StackLayout.csproj;x64
